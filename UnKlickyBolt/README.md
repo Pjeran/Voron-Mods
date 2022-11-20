@@ -10,7 +10,5 @@ Ideally an M3 tap is helpful
 
 Based on the work by Hartk and those before him
 
+<img src="./Images/UnKlickyBolt_1.jpg" width=500> <img src="./Images/UnKlickyBolt_2.jpg" width=500>
 
-![View 1](Images/UnKlickyBolt_1.jpg)
-
-![View 2](Images/UnKlickyBolt_2.jpg)
