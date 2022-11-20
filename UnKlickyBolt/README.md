@@ -7,3 +7,5 @@ Needs:
 (1) M3x12 button head screw
 
 Ideally an M3 tap is helpful
+
+Based on the work by Hartk and those before him
